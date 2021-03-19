@@ -12,6 +12,7 @@ matplotlib = "*"
 statsmodels = "*"
 hmmlearn = "*"
 tensorflow = "*"
+tensorflow-probability = "*"
 
 [dev-packages]
 jupyter = "*"
