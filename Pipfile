@@ -13,6 +13,7 @@ statsmodels = "*"
 hmmlearn = "*"
 tensorflow = "*"
 tensorflow-probability = "*"
+yfinance = "*"
 
 [dev-packages]
 jupyter = "*"
