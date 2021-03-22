@@ -4,21 +4,8 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-numpy = "*"
-pandas = "*"
-seaborn = "*"
-scipy = "*"
-matplotlib = "*"
-statsmodels = "*"
-hmmlearn = "*"
-tensorflow = "*"
-tensorflow-probability = "*"
-yfinance = "*"
 
 [dev-packages]
-jupyter = "*"
-umap-learn = "*"
-jupyterlab = "*"
 
 [requires]
-python_version = "3.7"
+python_version = "3.8"
